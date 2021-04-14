@@ -1,5 +1,7 @@
 <div dir=rtl>
 
+# اساسيات Git و Github
+
 <h2 align="right">الوصف</h2>
 <p align="right" dir="rtl">في هذه الـ repo توجد جميع أساسيات الـ git وتم تنفيذ وممارسة جميع الأوامر لتنفيذ هذا المشروع بنجاح وتم إنهاء الدورة على <a href="https://tuwaiq.codes/courses/32a55d39-77ca-4121-ba14-b861dd5715e5/view">Git 101 - منصة طويق التعليمية.</a>
 ​
